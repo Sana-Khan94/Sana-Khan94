@@ -9,7 +9,7 @@ I'm a Wife, Mother, Mentor, Devloper!!
 - 👯 I’m looking to collaborate on IT Sector
 - 🤔 I’m looking for help with Project on Data Science
 - 💬 Ask me about My Project
-- 📫 How to reach me: 
+- 📫 How to reach me:[ksana8044@gmail.com]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveling
 <!--
