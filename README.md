@@ -2,6 +2,7 @@
 I'm a Wife, Mother, Mentor, Devloper!!
 
 
+<p><img align="right" tsrc=" " width="500" height="300" /></p>
 
 - 🔭 I’m currently working on Data science Projects
 - 🌱 I’m currently learning Data science
@@ -15,4 +16,5 @@ I'm a Wife, Mother, Mentor, Devloper!!
 **Sana-Khan94/Sana-Khan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<code><img height="20" src="
 -->
