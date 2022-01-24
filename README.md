@@ -1,10 +1,7 @@
-### Hello world, I'm Sana Khan Data Scientist 👋
+### Hello world, I'm Sana Khan  👋
 I'm a Wife, Mother, Mentor, Devloper!!
 
-<!--
-**Sana-Khan94/Sana-Khan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data science Projects
 - 🌱 I’m currently learning Data science
@@ -14,4 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Traveling
+<!--
+**Sana-Khan94/Sana-Khan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
